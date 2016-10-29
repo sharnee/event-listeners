@@ -113,6 +113,20 @@ hr.q-divider{
   border-left: none;
 }
 
+.hideNav {
+  padding: 10px;
+  background: orange;
+  margin: 10px 100px;
+  border: 1px solid  black;
+}
+
+/*.showNav {
+  padding: 10px;
+  background: orange;
+  margin: 10px 100px;
+  border: 1px solid  black;
+}*/
+
 /*TASK 2*/
 
 #add-guest .answer-box {
